@@ -7,42 +7,42 @@
 	"scope": "./",
 	"start_url": "./",
 	"icons": [
-        {
-            "src": "Icons/manifest-icon-192.maskable.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "Icons/manifest-icon-192.maskable.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "Icons/manifest-icon-512.maskable.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "Icons/manifest-icon-512.maskable.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
-        }
-    ],
-    "screenshots": [
-        {
-            "src": "Screenshots/Laptop-Screenshot.png",
-            "sizes": "1920x1080",
-            "type": "image/png",
-            "form_factor": "wide"
-        },
-        {
-            "src": "Screenshots/Mobile-Screenshot.png",
-            "sizes": "386x856",
-            "type": "image/png"
-        }
-    ]
+		{
+			"src": "Icons/manifest-icon-192.maskable.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "Icons/manifest-icon-192.maskable.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "Icons/manifest-icon-512.maskable.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "Icons/manifest-icon-512.maskable.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	],
+	"screenshots": [
+		{
+			"src": "Screenshots/Laptop-Screenshot.png",
+			"sizes": "1920x1080",
+			"type": "image/png",
+			"form_factor": "wide"
+		},
+		{
+			"src": "Screenshots/Mobile-Screenshot.png",
+			"sizes": "386x856",
+			"type": "image/png"
+		}
+	]
 }
