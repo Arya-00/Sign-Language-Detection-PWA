@@ -55,7 +55,7 @@ export class SearchComponent {
 	}
 
 	onSubmit() {
-		if (this.imageSrc) this.isClicked = true;
+		if (this.imageSrc && this.prompt.value) this.isClicked = true;
 		if (!this.imageSrc) {
 			this.openSnackBar("Upload an Image", 'OK');
 		}
