@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'angularApp1';
+  title = 'sign-language-detection-frontend-Av19';
 }
